@@ -35,11 +35,10 @@
 
 ### Output:
 ![image](https://github.com/23000966/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/153983364/89407df2-17d6-482a-9a35-cefd77a65fd2)
-![image](https://github.com/23000966/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/153983364/1a888056-cf9a-4cf3-bfc1-86aa2604d5c6)
+![image](https://github.com/23000966/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/153983364/357812a8-6716-4297-920e-ca480a0a4c78)
 
-
-### Name: SANTHOSH KUMAR R
-### Register Number:23000966
+### Name: DILIP SANJAY M
+### Register Number:23014243
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
